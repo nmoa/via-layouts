@@ -4,7 +4,7 @@
   "macros": [
     "{KC_LSFT,KC_END}{KC_DEL}",
     "{+KC_LGUI}{+KC_LALT}k{-KC_LALT}{-KC_LGUI}",
-    "",
+    "{KC_LSFT,KC_HOME}{KC_DEL}",
     "",
     "",
     "",
@@ -354,7 +354,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
+      "MACRO(2)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_UP",
